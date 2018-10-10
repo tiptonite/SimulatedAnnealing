@@ -26,7 +26,6 @@ class Solution{
     public:
     vector<Edge> edgeArray;
     vector<Node> nodeArray;
-    vector<Node> solutionArray;
     int score;
 
 };
